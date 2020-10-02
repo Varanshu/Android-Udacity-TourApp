@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TourApp</string>
+    <string name="strings.xml">The taj regency .</string>
+    <string name="strings1.xml">JW Meriate</string>
+    <string name="strings2.xml">Hotel Radisson</string>
+    <string name="strings3.xml">Oberoi Hotel</string>
+    <string name="strings4.xml">The taksons</string>
+    <string name="strings5.xml">Park plaza</string>
+    <string name="strings6.xml">The holiday inn</string>
+    <string name="strings7.xml">Bandra  specially known for the film stars every bollywood film star have house here.</string>
+    <string name="strings8.xml">Andheri  Busiest rail way station in the city and located in west mumbai.</string>
+    <string name="strings9.xml">Borivali  Sanjay Gandhi national park is a good place to visit in Borivali.</string>
+    <string name="strings10.xml">Central \nLittle red horse garden is very famous in mumbai central.</string>
+    <string name="strings11.xml">Virar  Vajreshwari temple is attentio of the place and Baronda devi mandir is also very famous.</string>
+    <string name="strings12.xml">Khar  Gayatri temple and jain mandir are important places for Khar.</string>
+    <string name="strings13.xml">SantaCruz  Juhu garden have airplane as garden ornament.</string>
+    <string name="strings14.xml">The Bomabay Cuisine</string>
+    <string name="strings15.xml">Madras cafe</string>
+    <string name="strings16.xml">The Grill Food</string>
+    <string name="strings17.xml">Irani Hotel</string>
+    <string name="strings18.xml">Chai wala Hotel</string>
+    <string name="strings19.xml">The sunrise restaurant</string>
+    <string name="strings20.xml">Talk of the town</string>
+    <string name="strings21.xml">Bandra streets </string>
+    <string name="strings22.xml">Marine Drives</string>
+    <string name="string23.xml">Marine Beach road</string>
+    <string name="strings24.xml">Central road</string>
+    <string name="strings25.xml">The Kalyan Junction </string>
+    <string name="strings26.xml">The Dombivalli</string>
+    <string name="strings27.xml">Dadar Streets</string>
+
+</resources>

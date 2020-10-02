@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".mytour"
+    android:background="@drawable/ic_launcher_background">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingBottom="10dp"
+        android:text="Mumbai the city of dreams"/>
+    <TextView
+        android:id="@+id/famous_places1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Famous places"
+        android:textSize="20sp"
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/best_restaurant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cheap and best restaurants"
+        android:textSize="20sp"
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/famous_streets"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Famous streets"
+        android:textSize="20sp"
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/famous_hotels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hotels"
+        android:textSize="20sp"
+        android:paddingBottom="10dp"/>
+</LinearLayout>
